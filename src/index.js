@@ -1,7 +1,7 @@
-import {App} from "./src/App.js";
-            import {Game} from "./src/models/Game.js";
-            import {Movie} from "./src/models/Movie.js";
-            import {Album} from "./src/models/Album.js";
+import {App} from "./App.js";
+            import {Game} from "./models/Game.js";
+            import {Movie} from "./models/Movie.js";
+            import {Album} from "./models/Album.js";
 
             $(document).ready(function () {
                 function generateAlbum () {
