@@ -1,9 +1,5 @@
 describe ("Collection", function() {
 
-    const Album = MyMediatek.models.Album
-    const Collection = MyMediatek.models.Collection
-    const Game = MyMediatek.models.Game
-    const Movie = MyMediatek.models.Movie
     let album, collection, game, movie
 
     function generateAlbum () {

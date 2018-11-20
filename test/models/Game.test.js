@@ -1,7 +1,5 @@
 describe ("Game", function() {
 
-    const Media = MyMediatek.models.Media
-    const Game = MyMediatek.models.Game
     let game
 
     const expectedTitle = "Hollow Knight"

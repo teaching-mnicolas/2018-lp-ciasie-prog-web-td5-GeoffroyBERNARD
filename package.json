@@ -1,0 +1,30 @@
+{
+  "name": "packet",
+  "version": "1.0.0",
+  "description": "packet",
+  "main": "webpack.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0",
+    "webpack-cli": "^3.1.2",
+    "webpack": "^4.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-GeoffroyBERNARD.git"
+  },
+  "author": "moi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-GeoffroyBERNARD/issues"
+  },
+  "homepage": "https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-GeoffroyBERNARD#readme"
+}

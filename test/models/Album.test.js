@@ -1,7 +1,5 @@
 describe ("Album", function() {
 
-    const Media = MyMediatek.models.Media
-    const Album = MyMediatek.models.Album
     let album
 
     const expectedTitle = "Full Circle"

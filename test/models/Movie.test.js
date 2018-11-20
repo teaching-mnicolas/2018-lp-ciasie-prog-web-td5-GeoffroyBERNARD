@@ -1,7 +1,5 @@
 describe ("Movie", function() {
 
-    const Media = MyMediatek.models.Media
-    const Movie = MyMediatek.models.Movie
     let movie
 
     const expectedTitle = "Scott Pilgrim vs. the World"
