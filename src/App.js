@@ -1,8 +1,8 @@
-    import Album from "./models/Album.js";
-    import Collection from "./models/Collection.js";
-    import Game from "./models/Game.js" ;
-    import Movie from "./models/Movie.js";
-
+    import {Album} from "./models/Album.js";
+    import {Collection} from "./models/Collection.js";
+    import {Game} from "./models/Game.js" ;
+    import {Movie} from "./models/Movie.js";
+    /*import {Media} from "./models/Media.js"*/
 
 
     const ALBUM = 0

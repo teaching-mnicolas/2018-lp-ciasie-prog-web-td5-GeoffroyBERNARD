@@ -1,4 +1,4 @@
-import Media from "./models/Media.js";
+import {Media} from "./Media.js";
 
 export class Game extends Media {
 

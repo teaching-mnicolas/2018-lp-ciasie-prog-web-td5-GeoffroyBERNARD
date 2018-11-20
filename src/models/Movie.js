@@ -1,4 +1,4 @@
-import Media from "./models/Media.js";
+import {Media} from "./Media.js";
 
 export class Movie extends Media {
         constructor (title, releaseDate, rating, img, director, actors, duration, plot) {
