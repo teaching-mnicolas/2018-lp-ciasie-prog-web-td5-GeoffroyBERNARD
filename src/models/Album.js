@@ -1,6 +1,6 @@
-MyMediatek.models.Album = (function () {
+import Media from "./models/Media.js";
 
-    class Album extends MyMediatek.models.Media {
+export class Album extends Media {
         constructor (title, releaseDate, rating, img, artists, nbTracks) {
             super(title, releaseDate, rating, img)
             this.artists = artists
@@ -8,6 +8,6 @@ MyMediatek.models.Album = (function () {
         }
     }
 
-    return Album
 
-})()
+
+
